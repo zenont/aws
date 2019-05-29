@@ -1,3 +1,25 @@
+# deving
+node_modules
+.rpt2_cache/
+lib/
+typings/
+bin/
+dist/
+.buildcache
+main/
+module/
+local.json
+.DS_Store
+**/tools/*.js
+**/tools/*.d.ts
+**/tools/*.map
+*.key
+*.pem
+.cache/
+
+# terraform
+.terraform
+
 # Logs
 logs
 *.log
